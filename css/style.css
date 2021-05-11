@@ -1,0 +1,87 @@
+.main-container{
+
+    max-width: 1300px;
+    margin: auto;
+    background: peachpuff;
+    
+}
+
+body{
+
+    background-image: url('../images/BG.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+ }
+
+
+.activity-section{
+
+    display: flex;
+
+}
+
+.activity-img-wrapper{
+
+    justify-content: flex-start;
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-right: 3%;
+}
+
+.activity-txt-wrapper{
+
+    justify-content: flex-start;
+    margin-top: 3%;
+    margin-right: 3%;
+    font-size: 22px;
+}
+
+.company-name{
+
+    font-size: 30px;
+
+}
+
+.centre-info{
+
+    justify-content: flex-start;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 28px;
+}
+
+
+.nobull {
+    list-style-type: none;
+   }
+
+.full-staff-list{
+
+    font-size: 27px;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+.info-intro{
+
+    margin-top: 5%;
+
+}
+
+.review-quote{
+
+    margin-left: 6.5%;
+    margin-right: 6.5%;
+    font-size: 23px;
+    margin-bottom: 5%;
+}
+
+.contact{
+
+    font-size: 25px;
+    margin-bottom: 8%;
+
+}
